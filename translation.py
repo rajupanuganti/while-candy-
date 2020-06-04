@@ -1,3 +1,3 @@
-file = open('reading.txt','a')
-file.write('\nyou selected @ xilink')
+file = open('demo.html','a')
+file.write('<P>this is demo html page</p>')
 file.close()
